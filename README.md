@@ -29,6 +29,3 @@ Provides visibility into payroll spending, salary distributions, and department-
 Identifies historical termination trends, tenure brackets, and high-risk job titles to predict future turnover.
 * **Key Metric:** Average employee tenure sitting at 15.28 years.
 ![Attrition and Retention]
-
-## 💾 SQL Data Transformation (Example Queries)
-*(Optional: Paste 1 or 2 clean SQL queries here to prove you wrote scripts to join, filter, or clean the tables before importing them into Power BI).*
